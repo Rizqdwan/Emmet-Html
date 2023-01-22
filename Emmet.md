@@ -1,6 +1,6 @@
 **A few code Html with Emmet**
 
-html>head>title^body>h1{Hello}+h2{world}
+    html>head>title^body>h1{Hello}+h2{world}
 
 Output :
 
