@@ -10,7 +10,7 @@ Output :
 
 
 
-**More Information about how you use Emmet for speed-running Html code**
+**More Information about how to use Emmet for speed-running Html code**
 
 <kbd>You Can Check this link</kbd>
 
